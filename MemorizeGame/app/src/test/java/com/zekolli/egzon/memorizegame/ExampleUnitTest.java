@@ -1,4 +1,4 @@
-package com.hamiti.florim.memorizegame;
+package com.zekolli.egzon.memorizegame;
 
 import org.junit.Test;
 

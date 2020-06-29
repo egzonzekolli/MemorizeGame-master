@@ -1,4 +1,4 @@
-package com.hamiti.florim.memorizegame;
+package com.zekolli.egzon.memorizegame;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.hamiti.florim.memorizegame", appContext.getPackageName());
+        assertEquals("com.zekolli.egzon.memorizegame", appContext.getPackageName());
     }
 }

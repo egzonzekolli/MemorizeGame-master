@@ -1,9 +1,9 @@
-package com.hamiti.florim.memorizegame.models;
+package com.zekolli.egzon.memorizegame.models;
 
 import com.google.gson.annotations.SerializedName;
 
 /**
- * Created by Florim on 5/27/2018.
+ * Created by Egzoni on 5/27/2018.
  */
 
 public class FlickrPhotosDetails {

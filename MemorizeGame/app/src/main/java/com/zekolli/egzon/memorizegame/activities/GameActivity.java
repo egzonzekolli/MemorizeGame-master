@@ -1,4 +1,4 @@
-package com.hamiti.florim.memorizegame.activities;
+package com.zekolli.egzon.memorizegame.activities;
 
 import android.content.Context;
 import android.content.Intent;
@@ -24,12 +24,13 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.hamiti.florim.memorizegame.R;
-import com.hamiti.florim.memorizegame.adapters.ImageAdapter;
-import com.hamiti.florim.memorizegame.interfaces.GetPhotoValues;
-import com.hamiti.florim.memorizegame.models.Images;
-import com.hamiti.florim.memorizegame.utils.FlickPhotosDetailsResponseFirst;
-import com.hamiti.florim.memorizegame.utils.RetrofitClient;
+import com.zekolli.egzon.memorizegame.R;
+import com.zekolli.egzon.memorizegame.adapters.ImageAdapter;
+import com.zekolli.egzon.memorizegame.interfaces.GetPhotoValues;
+import com.zekolli.egzon.memorizegame.models.Images;
+import com.zekolli.egzon.memorizegame.utils.FlickPhotosDetailsResponseFirst;
+import com.zekolli.egzon.memorizegame.utils.RetrofitClient;
+
 
 import java.io.InputStream;
 import java.text.DateFormat;

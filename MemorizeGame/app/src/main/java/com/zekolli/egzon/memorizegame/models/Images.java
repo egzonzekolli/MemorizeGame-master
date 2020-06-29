@@ -1,9 +1,9 @@
-package com.hamiti.florim.memorizegame.models;
+package com.zekolli.egzon.memorizegame.models;
 
 import android.graphics.Bitmap;
 
 /**
- * Created by Florim on 5/26/2018.
+ * Created by Egzoni on 5/26/2018.
  */
 
 public class Images {

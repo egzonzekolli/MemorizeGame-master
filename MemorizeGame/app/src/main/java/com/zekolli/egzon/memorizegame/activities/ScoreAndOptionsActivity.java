@@ -1,4 +1,4 @@
-package com.hamiti.florim.memorizegame.activities;
+package com.zekolli.egzon.memorizegame.activities;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -12,15 +12,14 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.Spinner;
 
-import com.hamiti.florim.memorizegame.R;
-import com.hamiti.florim.memorizegame.adapters.CustomAdapterListView;
-import com.hamiti.florim.memorizegame.utils.DataModelForListView;
+import com.zekolli.egzon.memorizegame.R;
+import com.zekolli.egzon.memorizegame.adapters.CustomAdapterListView;
+import com.zekolli.egzon.memorizegame.utils.DataModelForListView;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;

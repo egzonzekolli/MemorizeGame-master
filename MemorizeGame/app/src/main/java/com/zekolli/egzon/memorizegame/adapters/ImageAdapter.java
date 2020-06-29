@@ -1,4 +1,4 @@
-package com.hamiti.florim.memorizegame.adapters;
+package com.zekolli.egzon.memorizegame.adapters;
 
 import android.content.Context;
 import android.util.Log;
@@ -8,13 +8,13 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 
-import com.hamiti.florim.memorizegame.R;
-import com.hamiti.florim.memorizegame.models.Images;
+import com.zekolli.egzon.memorizegame.R;
+import com.zekolli.egzon.memorizegame.models.Images;
 
 import java.util.ArrayList;
 
 /**
- * Created by Florim on 5/26/2018.
+ * Created by Egzoni on 5/26/2018.
  */
 
 public class ImageAdapter extends BaseAdapter {

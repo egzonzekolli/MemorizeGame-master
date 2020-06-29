@@ -1,4 +1,4 @@
-package com.hamiti.florim.memorizegame.utils;
+package com.zekolli.egzon.memorizegame.utils;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -7,7 +7,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by Florim on 5/26/2018.
+ * Created by Egzoni on 5/26/2018.
  */
 
 public class RetrofitClient {

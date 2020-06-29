@@ -1,7 +1,7 @@
-package com.hamiti.florim.memorizegame.utils;
+package com.zekolli.egzon.memorizegame.utils;
 
 /**
- * Created by Florim on 5/27/2018.
+ * Created by Egzoni on 5/27/2018.
  */
 
 public class DataModelForListView {

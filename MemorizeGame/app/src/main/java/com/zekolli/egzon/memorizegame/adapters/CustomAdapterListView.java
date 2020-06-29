@@ -1,4 +1,4 @@
-package com.hamiti.florim.memorizegame.adapters;
+package com.zekolli.egzon.memorizegame.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,13 +7,13 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-import com.hamiti.florim.memorizegame.R;
-import com.hamiti.florim.memorizegame.utils.DataModelForListView;
+import com.zekolli.egzon.memorizegame.R;
+import com.zekolli.egzon.memorizegame.utils.DataModelForListView;
 
 import java.util.ArrayList;
 
 /**
- * Created by Florim on 5/27/2018.
+ * Created by Egzoni on 5/27/2018.
  */
 
 public class CustomAdapterListView extends ArrayAdapter<DataModelForListView> implements View.OnClickListener{

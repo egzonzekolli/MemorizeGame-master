@@ -1,4 +1,4 @@
-package com.hamiti.florim.memorizegame.activities;
+package com.zekolli.egzon.memorizegame.activities;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import com.crashlytics.android.Crashlytics;
-import com.hamiti.florim.memorizegame.R;
+import com.zekolli.egzon.memorizegame.R;
 
 import io.fabric.sdk.android.Fabric;
 

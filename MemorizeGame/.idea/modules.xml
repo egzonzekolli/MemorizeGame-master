@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MemorizeGame.iml" filepath="$PROJECT_DIR$/MemorizeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MemorizeGame-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MemorizeGame-app.iml" group="MemorizeGame/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MemorizeGame-master-MemorizeGame.iml" filepath="$PROJECT_DIR$/.idea/modules/MemorizeGame-master-MemorizeGame.iml" group="MemorizeGame" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

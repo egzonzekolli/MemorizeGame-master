@@ -1,12 +1,13 @@
-package com.hamiti.florim.memorizegame.utils;
+package com.zekolli.egzon.memorizegame.utils;
 
 import com.google.gson.annotations.SerializedName;
-import com.hamiti.florim.memorizegame.models.FlickrPhotosDetails;
+import com.zekolli.egzon.memorizegame.models.FlickrPhotosDetails;
 
 import java.util.List;
 
+
 /**
- * Created by Florim on 5/27/2018.
+ * Created by Egzoni on 5/27/2018.
  */
 
 public class FlickPhotosDetailsResponse {
