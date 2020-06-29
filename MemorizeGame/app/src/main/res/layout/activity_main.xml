@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:gravity="center_horizontal"
     android:orientation="vertical"
-    tools:context="com.hamiti.florim.memorizegame.activities.MainActivity">
+    tools:context="com.zekolli.egzon.memorizegame.activities.MainActivity">
 
     <ScrollView
         android:id="@+id/login_form"

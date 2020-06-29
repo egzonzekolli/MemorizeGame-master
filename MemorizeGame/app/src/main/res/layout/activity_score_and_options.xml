@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="horizontal"
-    tools:context="com.hamiti.florim.memorizegame.activities.ScoreAndOptionsActivity">
+    tools:context="com.zekolli.egzon.memorizegame.activities.ScoreAndOptionsActivity">
 
     <ListView
         android:visibility="gone"
