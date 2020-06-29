@@ -6,4 +6,11 @@
     <color name="white">#FFFFFF</color>
     <color name="green">#00FF00</color>
     <color name="purple">#8B008B</color>
+
+
+
+    <color name="purple1">#8B008B</color>
+    <color name="purple2">#8B008B</color>
+    <color name="purple3">#8B008B</color>
+    <color name="purple4">#8B008B</color>
 </resources>
